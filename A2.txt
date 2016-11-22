@@ -1,1 +1,1 @@
-Useradd(){}
+Useradd(){printf(yyy)}
